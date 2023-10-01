@@ -16,7 +16,7 @@ grpcio==1.59.0
 grpcio-status==1.59.0
 gunicorn==21.2.0
 idna==3.4
-imageio==2.31.4
+imageio==2.31.2
 imageio-ffmpeg==0.4.9
 Jinja2==3.1.2
 llvmlite==0.41.0
